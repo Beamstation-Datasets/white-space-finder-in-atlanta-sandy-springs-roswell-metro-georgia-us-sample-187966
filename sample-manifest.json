@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4de9a765-e297-4e9e-817e-5583235f5e71",
+  "export_job_id": "6f86ba5f-76a1-420f-9290-6aec07009108",
   "id_short": 187966,
-  "published_at": "2026-04-10T19:28:52Z",
+  "published_at": "2026-04-18T07:33:41Z",
   "repo_name": "white-space-finder-in-atlanta-sandy-springs-roswell-metro-georgia-us-sample-187966",
   "sample_asset_name": "beamstation_187966_food_and_drink-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/187966/beamstation_187966_food_and_drink-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
   "sample_records": 2,
-  "sample_sha256": "7072311f682ed9989a4587c9e2c52f15e7b694ba546020ed68e7328d1b40ca2a",
-  "sample_size_bytes": 24096,
-  "total_records": 22
+  "sample_sha256": "26e5e848e1470849dffa5e1beb7f59f48f249bb58520f0fb6f1133a784b5dcd5",
+  "sample_size_bytes": 24136,
+  "total_records": 21
 }
