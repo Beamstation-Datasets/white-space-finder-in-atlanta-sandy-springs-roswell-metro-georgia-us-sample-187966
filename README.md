@@ -9,9 +9,9 @@
 | Dataset ID | `187966` |
 | Location | Atlanta-Sandy Springs-Roswell, GA |
 | Category | Restaurants |
-| Full dataset size | 20 records |
-| Free sample size | 2 records (10.0%) |
-| Last export | 2026-04-22T00:16:43.406442+00:00 |
+| Full dataset size | 22 records |
+| Free sample size | 2 records (9.09%) |
+| Last export | 2026-04-29T03:34:15.527533+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-atlanta-sandy-springs-roswell-metro-georgia-us-sample-187966/releases/download/sample-latest/beamstation_187966_food_and_drink-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
