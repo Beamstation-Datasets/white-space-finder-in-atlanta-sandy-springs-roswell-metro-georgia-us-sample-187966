@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Atlanta-Sandy Springs-Roswell, GA that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Atlanta-Sandy Springs-Roswell (Metro), Georgia, US",
-  "export_job_id": "d0b1ee3a-1736-4464-a2e6-8b2bbc18adc0",
+  "export_job_id": "4eaa0e6b-b18e-4113-8b81-0629ae3696a3",
   "github_org": "Beamstation-Datasets",
   "id_short": 187966,
   "location_name": "Atlanta-Sandy Springs-Roswell, GA",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-atlanta-sandy-springs-roswell-metro-georgia-us-sample-187966",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/187966/beamstation_187966_food_and_drink-us-atlantasandyspringsroswellga_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.09,
   "sample_records": 2,
-  "sample_sha256": "71f529496e97ab592b49cdb408534d29135b51fcce4bed40c6588cfa889b4d29",
-  "sample_size_bytes": 23504,
-  "total_records": 20,
-  "updated_at": "2026-04-22T00:16:43.406442+00:00"
+  "sample_sha256": "c38d1274f8d0a00ff35ac1f890bde1a8022318e943e0a86e5ddf413eef4ea740",
+  "sample_size_bytes": 23074,
+  "total_records": 22,
+  "updated_at": "2026-04-29T03:34:15.527533+00:00"
 }
